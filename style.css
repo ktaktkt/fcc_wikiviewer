@@ -1,0 +1,13 @@
+body {
+        font-family: 'Raleway';
+}
+    .container{
+        position: relative;
+          margin: 25vh auto 0vh;
+}
+    .title {
+        font-size: 20px;
+}
+    li {
+        list-style: none;
+}
